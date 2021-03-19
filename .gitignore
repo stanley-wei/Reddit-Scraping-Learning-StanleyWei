@@ -1,0 +1,8 @@
+post_titles/*
+models/*
+bin/*
+checkpoint/*
+include/*
+lib/*
+samples/*
+*/DS_STORE
